@@ -12,5 +12,3 @@ Skills: SWIFT📱 |  PYTHON 🐍  | PhantomJS 👻 | FIGMA 🎨 | GOOGLE FIREBAS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/veber-sormin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vethebear)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vebersormin&repo=github-readme-stats)](https://github.com/vebersormin/github-readme-stats)
