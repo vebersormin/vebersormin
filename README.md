@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Veber Sormin
 #### Design and Development
+![Design and Development](https://i.ibb.co/Wp8FSQt/Untitled-design-2.png)
+
 I'm Veber Sormin from Jakarta - Indonesia 🇲🇨. 
 
 I'm an iOS developer 🧑‍💻 
